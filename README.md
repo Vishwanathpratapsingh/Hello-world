@@ -1,2 +1,5 @@
 # Hello-world
-just another repository
+
+Hii humans!
+
+i like to design a websites, and also doing code on java.
